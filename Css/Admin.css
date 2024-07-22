@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  /* background-color: #eee4b1; */
+  height: 100vh;
+  background: url("../image/thumb-1920-747506.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.admincon {
+  margin: 5rem 25rem;
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+
+.form-control {
+  width: 50%;
+}
+
+.form-control {
+  /*  */
+}
+
+.input-group-text {
+  /*  */
+}
+
+@media (max-width: 320px) {
+  .admincon {
+    background-color: aqua;
+    margin: 5rem 5rem;
+    width: auto;
+    height: auto;
+  }
+}

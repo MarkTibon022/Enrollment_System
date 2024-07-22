@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+nav {
+  padding: 0.4rem;
+  background-color: #dddddd;
+}
+
+nav h1 {
+  margin: 0;
+}
